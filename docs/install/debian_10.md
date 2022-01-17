@@ -83,7 +83,7 @@ systemctl stop mineos
 
 ### SUPERVISORD
 ```
-# apt install -y supervisord
+# apt install -y supervisor
 # cp /usr/games/minecraft/init/supervisor_conf /etc/supervisor/conf.d/mineos.conf
 # supervisorctl reload
 ```
